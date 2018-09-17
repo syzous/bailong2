@@ -41,6 +41,8 @@ public class MainActivity extends AppCompatActivity {
         //// 4 + 0, 4 + 1, 4 + 2,  // 4 + 2 = 11
 
         ////
+        ////adsfsdafasdfsa
+        ///fadsfdsfsdafsdf
             int[] a;
             int lengthTemp=a.length;
             a= new int[]{1,4,6,2,5};
